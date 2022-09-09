@@ -1,0 +1,4 @@
+﻿trials.label,trials.startVal,trials.stepSizes,trials.maxVal,trials.minVal,trials.thisIndex,trials.thisRepN,trials.thisN,trials.direction,trials.stepSize,trials.stepType,trials.intensity,ISI.started,grating.started,key_resp.started,grating.stopped,trials.response,participant,session,date,expName,psychopyVersion,frameRate,
+cont,0.5,"[0.01, 0.01, 0.005, 0.005]",1,0,0,1,0,start,0.01,db,0.5,0.36778030445020704,1052.1780615982884,1052.1780615982884,1052.4935684557745,1,457219,001,2022-09-02_12h13.23.133,staircase exp,2022.2.2,59.81349906395074,
+cont,0.5,"[0.01, 0.01, 0.005, 0.005]",1,0,0,2,1,down,0.01,db,0.49942468496825254,0.0008621478164059226,1054.8183349498609,1054.8183349498609,1055.1193721535315,1,457219,001,2022-09-02_12h13.23.133,staircase exp,2022.2.2,59.81349906395074,
+cont,0.5,"[0.01, 0.01, 0.005, 0.005]",1,0,0,3,2,down,0.01,db,0.4988500319112766,0.000841016742924694,1057.1094616798541,1057.1094616798541,1057.4103995674773,,,,,,,,
